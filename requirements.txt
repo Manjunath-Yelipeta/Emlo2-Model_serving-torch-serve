@@ -12,7 +12,7 @@ hydra-optuna-sweeper==1.2.0
 #--------- torch serve ------#
 torchserve==0.6.1
 torch-model-archiver==0.6.1
-torch-workflow-archiver==0.2.5
+torch-workflow-archiver==0.2.7
 
 # --------- loggers --------- #
 # wandb
